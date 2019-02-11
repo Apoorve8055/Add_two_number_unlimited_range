@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: Apoorv verma
+@Apoorve8055
 """
 
 str1 = input("enter the number : ")
